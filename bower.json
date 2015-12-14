@@ -1,0 +1,28 @@
+{
+  "name": "test-fng",
+  "version": "0.0.0",
+  "dependencies": {
+    "json3": "3.3.2",
+    "forms-angular": "^0.6.0",
+    "angular-ui-bootstrap-bower": "^0.14.3",
+    "angular-resource": "^1",
+    "angular-cookies": "^1",
+    "font-awesome": ">=4.1.0",
+    "lodash": "3.10.1",
+    "angular-socket-io": "0.7.0",
+    "angular-ui-router": "0.2.15",
+    "fng-ui-date": "*",
+    "fng-jq-upload": "*",
+    "fng-reports": "*",
+    "ng-ckeditor": "0.2.1",
+    "ckeditor": "*",
+    "fng-select2": "*"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.4"
+  },
+  "testPath": "test/client/spec",
+  "resolutions": {
+    "angular": "1.4.8"
+  }
+}
