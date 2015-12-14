@@ -1,7 +1,7 @@
 # Papyrus
 A simple way for microfinance institutions to embrace modern technology and leave the cluter of paper filled offices behind. Create and manage online forms. 
 
-Special thanks to @mchapman and @forms-angular for the core of this project.
+Special thanks to [@mchapman](https://github.com/mchapman) and [@forms-angular](https://github.com/forms-angular/forms-angular) for the core of this project.
 
 
 ## Getting Started
